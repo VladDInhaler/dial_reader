@@ -4,17 +4,15 @@ reads Input from an old rotary-phone on an arduino sends it away as a string.
 
 It was used as part of a project, where the user could play videos on a screen by dialing numbers on an old rotary phone.
 
-
-# hardware documentation
-
-The program was used on an Elegoo-Uno (an Arduino-Uno clone) and an old german rotary telephone.
-
-# temporary documentation from memory -
+# temporary hardware documentation from memory -
 
  /*
  This part solves the purpose of writing down what i still remember until i figured it out again.
  I will update it on the way and refactor it completely when its recreated and tested.
  */
+ 
+The program was used on an Elegoo-Uno (an Arduino-Uno clone) and an old german rotary telephone.
+
  
 The microcontroller was connected to the telephone with multiple cables etc.
 The Documentation on this disappeared, so until I successfully recreated it, there wont be a Proper one.
