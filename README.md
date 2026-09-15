@@ -11,8 +11,13 @@ The program was used on an Elegoo-Uno (an Arduino-Uno clone) and an old german r
 
 # temporary documentation from memory -
 
-The microcontroller was conected to the telephone with multiple cables etc.
-The Documentation on this disappeared, so until I sucessfully recreated it, there wont be a Proper one.
+ /*
+ This part solves the purpose of writing down what i still remember until i figured it out again.
+ I will update it on the way
+ */
+ 
+The microcontroller was connected to the telephone with multiple cables etc.
+The Documentation on this disappeared, so until I successfully recreated it, there wont be a Proper one.
 
 The microcontroller was connected to the telephone with jumper cables.
 
@@ -22,6 +27,11 @@ Those where, as far as i remember plugged into the following pins:
 - one into Analog In or the GND Pin.
 
 Between the telephone and the controller was although a breadboard with a resistance pin.
-This was either a 10000 or 300something OHM.
+-This was either a 10000 or 300 and something OHM.
+
+
+
+
+
 
 
