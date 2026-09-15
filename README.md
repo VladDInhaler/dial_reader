@@ -2,9 +2,9 @@
 
 reads Input from an old rotary-phone on a microcontroller and outputs it as a digital string.
 
-It was used as part of a project, where the user could play videos on a screen by dialing numbers on an old rotary phone.
+It was used as in a project, where the user could play videos on a screen by dialing numbers on an old rotary phone.
 
-# temporary hardware documentation from memory -
+# temporary hardware assembly documentation - from memory -
 
  /*
  This part solves the purpose of writing down what i still remember until i figured it out again.
